@@ -15,4 +15,4 @@ PRODUCT_MODEL        := A100
 PRODUCT_MANUFACTURER := Acer
 
 #Set build fingerprint / ID / Product Name ect.
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=occam BUILD_FINGERPRINT="acer/a100_ww_gen1/vangogh:4.0.3/IML74K/1332408262:user/release-keys" PRIVATE_BUILD_DESC="a100_ww_gen1-user 4.0.3 IML74K 1332408262 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=vangogh BUILD_FINGERPRINT="acer/a100_ww_gen1/vangogh:4.0.3/IML74K/1332408262:user/release-keys" PRIVATE_BUILD_DESC="a100_ww_gen1-user 4.0.3 IML74K 1332408262 release-keys"
